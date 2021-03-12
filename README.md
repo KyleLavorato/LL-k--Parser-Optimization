@@ -39,7 +39,7 @@ A union consisting of these four types and their restrictions, where Restriction
 
 ## Documentation
 ---
-This work has a supporting technical IEEE paper describing the research in more detail, available [here](https://1drv.ms/b/s!AuxEJ0tR77ULxS-AJbzMwbXhwU45).
+This work has been published in `CASCON '19: Proceedings of the 29th Annual International Conference on Computer Science and Software Engineering`. The paper is available in the [ACM Digital Library](https://dl.acm.org/doi/10.5555/3370272.3370292) for viewing.
 
 ### Compilation
 The work `generateLLKOptimizations.txl` is provided strictly as an example of how to implement the annotation process described in the work. It is a single module of the full parser generator system and requires the initial closed source generator modules to run properly. This module only is provided open source to further research in this area.
